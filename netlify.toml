@@ -7,14 +7,17 @@
 [dev]
   command = "npm run start"
 
-
 [[redirects]]
   from = "/api/*"
   to = "/.netlify/functions/:splat"
   status = 200
 
 [[redirects]]
-  from = "/jeff/"
-  to = "https://www.google.com"
+  from = "/njace/"
+  to = "https://www.njace.us"
   status = 301
-  
+
+[[redirects]]
+  from = "/recruiting/"
+  to = "https://njace.us/data-repository/recruitment/"
+  status = 301
