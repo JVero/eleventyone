@@ -1,33 +1,12 @@
 ---
-title: Get Yours
+title: About Us 
 layout: layouts/base.njk
-subtitle: Clone and deploy your own EleventyOne starter template.
+subtitle: This is a redundant place to mention what the NJACE is and what we do
 ---
 
 ## Hosting
-
 This site is deployed by, and hosted by [Netlify](https://www.netlify.com).
 
-<div class="nakedLink">
+## About us
+The New Jersey Autism Center of Excellence (NJACE) is a statewide innovative, comprehensive and collaborative network to promote quality research, professional training and build public awareness aimed to improve the lives of individuals with ASD across the lifespan. The NJACE is funded by a grant from the New Jersey Governor’s Council for Medical Research and Treatment of Autism to Rutgers, the State University of New Jersey in partnership with Children’s Specialized Hospital.
 
-Latest deploy status: [![Netlify Status](https://api.netlify.com/api/v1/badges/056b4a67-70e6-4af4-9be5-dee151b8e906/deploy-status)](https://app.netlify.com/sites/eleventyone/deploys)
-
-</div>
-
-## One-click deploy
-
-To get your own instance of this [Eleventy](https://11ty.io) starter project cloned and deploying to [Netlify](https://www.netlify.com) very quickly, just click the button below and follow the instructions.
-
-<div class="nakedLink">
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/philhawksworth/eleventyone)
-
-</div>
-
-## 👆 Wait, what happens when I click that button?
-
-Good question. Here's what it will do...
-
-1. Netlify will clone the [git repository]({{pkg.repository.url}}) of this project into your GitHub account. You will be asked for the required permissions to add the repo for you.
-2. They'll create a new site for you in Netlify, and configure it to use your shiny new repo. Right away you'll be able to deploy changes simply by pushing changes to your repo.
-3. That's it really.
