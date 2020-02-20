@@ -26,3 +26,9 @@
   from = "/sign-up/"
   to = "https://visitor.r20.constantcontact.com/manage/optin?v=001dZZfSJUF90BZNI5fME5hTWzA5UnczZ0YKeSR30lONk_Dr6aHK1tJ0CQHBZqsxG3T3QjmL868lPbAz6TY8d7cIcP8ffXKCLwYA7uerBhDG4oR98QkPWfpny5ouEoB5r7-sMvDB9uMc0-EWxXUK9fgw5bjhFItTb6G"
   status = 301
+
+[[redirects]]
+  from = "/research/"
+  to = "https://njace.us/research/current-studies/"
+  status = 301
+
