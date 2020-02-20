@@ -12,6 +12,7 @@ The existing links we have are:
 - [Home page (njaceshortcuts.com/njace)](/njace)
 - [Recruitment (njaceshortcuts.com/recruitment)](/recruitment)
 - [Email signup (njaceshortcuts.com/sign-up)](/sign-up)
+- [Current Studies (njaceshortcuts.com/research)](/research)
 
 This page is hosted by [netlify.com](https://www.netlify.com)
 
