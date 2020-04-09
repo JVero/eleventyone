@@ -32,3 +32,12 @@
   to = "https://njace.us/research/current-studies/"
   status = 301
 
+[[redirects]]
+  from = "/youtube/"
+  to = "https://www.youtube.com/channel/UCfRG4te3SNBxu-Qe01PsiCQ"
+  status = 301
+
+[[redirects]]
+  from = "/facebook/"
+  to = "https://www.facebook.com/NJAutismCenterofExcellence/"
+  status = 301

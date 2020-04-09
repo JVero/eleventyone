@@ -13,6 +13,8 @@ The existing links we have are:
 - [Recruitment (njaceshortcuts.com/recruitment)](/recruitment)
 - [Email signup (njaceshortcuts.com/sign-up)](/sign-up)
 - [Current Studies (njaceshortcuts.com/research)](/research)
+- [Youtube (njaceshortcuts.com/youtube)](/youtube)
+- [Facebook (njaceshortcuts.com/facebook)](/facebook)
 
 This page is hosted by [netlify.com](https://www.netlify.com)
 
